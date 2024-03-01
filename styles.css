@@ -1,0 +1,43 @@
+body {
+    background-color: bisque;
+    background-image: url(https://previews.123rf.com/images/schiva/schiva1606/schiva160600015/60474513-welcome-back-to-school-card-doodle-pen-drawn-background-vector-illustration-in-notebook.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align:inherit;
+    font-size: 50px;
+  }
+  
+  textarea {
+    width: 500px;
+    height: 210px;
+    margin-top: 10px;
+    margin-bottom: 1px;
+    padding: 20px;
+    resize: none;
+  }
+  
+  button {
+    display: inline-block;
+    margin: 40px 20px;
+    margin-bottom: 6px;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 10%;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
